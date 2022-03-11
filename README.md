@@ -7,4 +7,4 @@
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with the N64 Controller](j01/README.md)
