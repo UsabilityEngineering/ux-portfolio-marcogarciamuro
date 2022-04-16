@@ -3,7 +3,8 @@
 
 I recently bought a couple of LED light strips I connected together to put up in my room. I downloaded the smartphone application to control them via Bluetooth. I had low expectations of the lights I bought for cheap through amazon, but to my surprise, my user experience was great.
 When the app is first opened you are met with a big color wheel, some popular color choices, as well as an option to create a custom color based on desired RGB numeric values.
-![IMG-0832](https://user-images.githubusercontent.com/42755486/163661992-a4f12ec4-99c8-43ec-8e56-57837e297ea9.PNG)
+<img src="https://user-images.githubusercontent.com/42755486/163661992-a4f12ec4-99c8-43ec-8e56-57837e297ea9.PNG" alt="drawing" width="200"/>
+<!-- ![IMG-0832](https://user-images.githubusercontent.com/42755486/163661992-a4f12ec4-99c8-43ec-8e56-57837e297ea9.PNG) -->
 
 The LED light strip that I purchased came with its own physical remote for the lights but I often misplace it or it might be simply inconvenient or a hassle to grab it from where it is. Because I usually have my phone near me or on me, I find this app extremely useful to quickly change or turn on/off my lights.
 
