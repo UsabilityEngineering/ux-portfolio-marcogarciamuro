@@ -8,3 +8,4 @@
 ## UX Journal
 
 [Read about my experience with the N64 Controller](j01/README.md)
+[Read about my experience with the MagicStrip LED Light Controller App](j02/README.md)
