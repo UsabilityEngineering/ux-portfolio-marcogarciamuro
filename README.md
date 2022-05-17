@@ -3,6 +3,7 @@
 
 
 ## UX Team Project
+[Read about Split](https://usabilityengineering.github.io/Split/)
 
 
 ## UX Journal
